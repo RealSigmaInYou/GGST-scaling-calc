@@ -1,0 +1,222 @@
+{
+    "5p": {
+        "damage" : 30,
+        "proration": 80,
+        "risc loss": 1500,
+        "hit type" : "strike"
+    },
+    "5k": {
+        "damage" : 36,
+        "proration": 70,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "cs": {
+        "damage" : 45,
+        "proration": 100,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "fs": {
+        "damage" : 40,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+
+    "5h": {
+        "damage" : 60,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+
+    "2p": {
+        "damage" : 26,
+        "proration": 80,
+        "risc loss": 1500,
+        "hit type" : "strike"
+    },
+    "2k": {
+        "damage" : 30,
+        "proration": 70,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "2s": {
+        "damage" : 45,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+
+    "2h": {
+        "damage" : 66,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "jp": {
+        "damage" : 30,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "jk": {
+        "damage" : 36,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "js": {
+        "damage" : 45,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "jh": {
+        "damage" : 55,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "jd": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "6p": {
+        "damage" : 42,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "6k": {
+        "damage" : 45,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "6h": {
+        "damage" : 90,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "2d": {
+        "damage" : 40,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "5d uncharged": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 3000,
+        "hit type" : "strike"
+    },
+    "5d charged": {
+        "damage" : 62,
+        "proration": 100,
+        "risc loss": 1500,
+        "hit type" : "strike"
+    },
+    "6d": {
+        "damage" : 90,
+        "proration": 50,
+        "risc loss": 2500,
+        "hit type" : "throw"
+    },
+   "j6d": {
+        "damage" : 90,
+        "proration": 50,
+        "risc loss": 2500,
+        "hit type" : "throw"
+    },
+    "wa uncharged": {
+        "damage" : 30,
+        "proration": 90,
+        "risc loss": 3000,
+        "hit type" : "strike"
+    },
+    "wa charged": {
+        "damage" : 50,
+        "proration": 100,
+        "risc loss": 2000,
+        "hit type" : "strike"
+    },
+    "[4]6h": {
+        "damage" : 58,
+        "proration": 60,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "6246p": {
+        "damage" : 200,
+        "proration": 50,
+        "risc loss": 2500,
+        "hit type" : "throw"
+    },
+    "623h": {
+        "damage" : [0, 7, 7, 7, 7, 7, 7, 7, 7, 100],
+        "proration": 50,
+        "risc loss": 2500,
+        "hit type" : "hit-grab"
+    },
+    "236p": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 2000,
+        "hit type" : "strike"
+    },
+    "214p": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "236s": {
+        "damage" : 30,
+        "proration": 60,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "214k": {
+        "damage" : 40,
+        "proration": 90,
+        "risc loss": 2000,
+        "hit type" : "projectile"
+    },
+    "214[k]": {
+        "damage" : 60,
+        "proration": 90,
+        "risc loss": 1000,
+        "hit type" : "projectile"
+    },
+    "214h": {
+        "damage" : 63,
+        "proration": 80,
+        "risc loss": 2000
+        ,
+        "hit type" : "projectile"
+    },
+    "623k": {
+        "damage" : 72,
+        "proration": 60,
+        "risc loss": 1000,
+        "hit type" : "strike"
+    },
+    "6246h": {
+        "damage" : [60, 15,15,15],
+        "proration": 100,
+        "risc loss": 1000,
+        "hit type" : "projectile"
+    },
+    "6246s": {
+        "damage" : 230,
+        "proration": 100,
+        "risc loss": 1000,
+        "hit type" : "hit-grab"
+    }
+}
