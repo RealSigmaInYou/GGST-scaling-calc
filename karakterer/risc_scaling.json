@@ -1,0 +1,52 @@
+{
+    "1":{
+        "risc":0,
+        "factor":256,
+        "scaling": 100
+    },
+    "2":{
+        "risc": 100,
+        "factor": 256,
+        "scaling": 100
+    },
+    "3":{
+        "risc": 1700,
+        "factor": 200,
+        "scaling": 78.13
+    },
+    "4":{
+        "risc": 3300,
+        "factor": 152,
+        "scaling": 59.38
+    },
+    "5":{
+        "risc": 4900,
+        "factor": 112,
+        "scaling": 43.75
+    },
+    "6":{
+        "risc": 6500,
+        "factor": 80,
+        "scaling": 31.25
+    },
+    "7":{
+        "risc": 8100,
+        "factor": 48,
+        "scaling": 18.75
+    },
+    "8":{
+        "risc": 9700,
+        "factor": 32,
+        "scaling": 12.50
+    },
+    "9":{
+        "risc": 11300,
+        "factor": 16,
+        "scaling": 6.25
+    },
+    "10":{
+        "risc": 12900,
+        "factor": 8,
+        "scaling": 3.13
+    }
+}

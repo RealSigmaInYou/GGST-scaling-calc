@@ -1,0 +1,257 @@
+{
+    "5p": {
+        "damage" : 18,
+        "proration": 80,
+        "risc loss": 1500
+    },
+    "5k": {
+        "damage" : 24,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "cs": {
+        "damage" : 36,
+        "proration": 100,
+        "risc loss": 1000
+    },
+    "fs w/sword": {
+        "damage" : 42,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "fs wo/sword": {
+        "damage" : 28,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "5h w/sword": {
+        "damage" : 57,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "5h wo/sword": {
+        "damage" : 38,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "2p": {
+        "damage" : 18,
+        "proration": 80,
+        "risc loss": 1500
+    },
+    "2k": {
+        "damage" : 18 ,
+        "proration": 70,
+        "risc loss": 1000
+    },
+    "2s w/sword": {
+        "damage" : 39,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "2s wo/sword": {
+        "damage" : 26,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "2h w/sword": {
+        "damage" : 54,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "2h wo/sword": {
+        "damage" : 36,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "jp": {
+        "damage" : 15,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "jk": {
+        "damage" : 22,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "js w/sword": {
+        "damage" : 36,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "js wo/sword": {
+        "damage" : 24,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "jh w/sword": {
+        "damage" : 48,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "jh wo/sword": {
+        "damage" : 32,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "jd": {
+        "damage" : [14,14,14],
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "6p": {
+        "damage" : 27,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "6h w/sword": {
+        "damage" : 69,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "6h wo/sword": {
+        "damage" : 46,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "2d": {
+        "damage" : 28,
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "5d uncharged": {
+        "damage" : 45,
+        "proration": 80,
+        "risc loss": 3000
+    },
+    "5d charged": {
+        "damage" : 56,
+        "proration": 100,
+        "risc loss": 3000
+    },
+    "6d": {
+        "damage" : 80,
+        "proration": 50,
+        "risc loss": 2500
+    },
+   "j6d": {
+        "damage" : 80,
+        "proration": 50,
+        "risc loss": 2500
+    },
+    "wa uncharged": {
+        "damage" : 30,
+        "proration": 90,
+        "risc loss": 4000
+    },
+    "wa charged": {
+        "damage" : 50,
+        "proration": 100,
+        "risc loss": 3000
+    },
+    "236s": {
+        "damage" : [50, 30],
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "236h": {
+        "damage" : [50, 30],
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "623p": {
+        "damage" : 35,
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "236k": {
+        "damage" : 40,
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "214k": {
+        "damage" : 33,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "j214k": {
+        "damage" : 33,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "214h 2sword": {
+        "damage" : 100,
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "214h 1sword": {
+        "damage" : 75,
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "214h 0sword": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 2000
+    },
+    "214p": {
+        "damage" : 33,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "214p 4p": {
+        "damage" : 35,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "214p dl 4p": {
+        "damage" : 40,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "214p 4p 4p": {
+        "damage" : 40,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "214p 4p dl 4p": {
+        "damage" : 50,
+        "proration": 80,
+        "risc loss": 1000
+    },
+    "j214s 2-sword": {
+        "damage" : [36, 36],
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "j214s 1-sword": {
+        "damage" : [36, 24],
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "j214s 0-sword": {
+        "damage" : [24, 24],
+        "proration": 90,
+        "risc loss": 1000
+    },
+    "6246h": {
+        "damage" : [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,180],
+        "proration": 100,
+        "risc loss": 1000
+    },
+    "236236s 2sword": {
+        "damage" : 132,
+        "proration": 100,
+        "risc loss": 1000
+    },
+    "236236s 1sword": {
+        "damage" : 99,
+        "proration": 100,
+        "risc loss": 1000
+    },
+    "236236s 0sword": {
+        "damage" : 66,
+        "proration": 100,
+        "risc loss": 1000
+    }
+}
