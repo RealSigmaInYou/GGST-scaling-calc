@@ -95,7 +95,7 @@ class kalkisbrur():
                     self.move_damage_post_scaling = math.floor(self.move_damage * math.floor(factor_interpolated) / 256)
                     if len(self.routing) > 1:
                         self.move_damage_post_scaling = math.floor(self.move_damage_post_scaling * (char_parsed[self.attack_name]["proration"]/100))
-                    if self.move_damage_post_scaling <= 0:
+                    if self.move_damage_post_scaling <= 0 and self.move_damage_post_scaling > 0:
                         self.move_damage_post_scaling =1
                     self.risc += char_parsed[self.attack_name]["risc loss"]
                     break
@@ -107,7 +107,7 @@ class kalkisbrur():
 
                         if len(self.routing) > 1:
                             temp_var_move_move_damage_post_scaling = math.floor(temp_var_move_move_damage_post_scaling * (char_parsed[self.attack_name]["proration"]/100))
-                        if temp_var_move_move_damage_post_scaling <= 0:
+                        if temp_var_move_move_damage_post_scaling <= 0 and self.move_damage_post_scaling > 0:
                             temp_var_move_move_damage_post_scaling =1
                         self.move_damage_post_scaling.append(int(temp_var_move_move_damage_post_scaling))
                     self.risc += char_parsed[self.attack_name]["risc loss"]
