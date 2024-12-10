@@ -1,0 +1,3 @@
+parse framedata 
+make parser do all characters
+check for errors when scraping and redo them if they failed
