@@ -38,15 +38,45 @@ def sigma(dynamic_url):
                 for row in (rowa for rowa in rows if len(rowa) >= 14):
                     cells = row.find_all('td')
                     cells = [element.text.strip() for element in cells]
-                    print(cells)
-                    
-                    print("tables: ", type(tables))
                     table_rows.append(cells)
                 table_id+=1
             
-            print(table_rows)
+            for rowthing in table_rows:
+                if rowthing != []:    
+                    if rowthing[0] == "":
+                        print(rowthing)
+                        hits = []
+                        try:
+                            remove_commas = rowthing[2].split(",")
+                            for number_but_str in remove_commas:
+                                if "[" in number_but_str:
+                                    number_but_str = number_but_str.split("[")
+                                if "x" in number_but_str:
+                                    check_for_x = number_but_str_2.split("x")
+                                    for i in len(int(check_for_x[1])):
+                                        hits.append(int(check_for_x[0]))
+                                else:
+                                    number_but_int = int(number_but_str)
+                                    hits.append(number_but_int) #gjør at de blir lagt til i en dict 
+
+                        except:
+                            try:
+                                remove_commas = rowthing[3].split(",")
+                                for number_but_str_2 in remove_commas:
+                                    if "x" in number_but_str_2:
+                                        check_for_x = number_but_str_2.split("x")
+                                        for i in len(int(check_for_x[1])):
+                                            hits.append(int(check_for_x[0]))
+                                    else:
+                                        number_but_int = int(number_but_str_2)
+                                        hits.append(number_but_int)
+                            except:
+                                print("neither the 2nd index nor the third index are attacks. this is so not sigma")
+                        finally:
+                            print(hits)
 
 
+        print("finished")
             
             # for bakaraka in ryddig_html:
             #     html_dump_area.write(bakaraka + "\n")
