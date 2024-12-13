@@ -3,15 +3,14 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import re
 from bs4 import BeautifulSoup
-import time
 
 dynamic_url = "https://www.dustloop.com/w/GGST/Anji_Mito/Frame_Data"
 def sigma(dynamic_url):
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(options=chrome_options)
+    character_data = {}
     
 
     try:
@@ -32,7 +31,7 @@ def sigma(dynamic_url):
             table_id = 0
             table_rows = []
             all_tables = suppe.find_all('table')
-            # for table in (tables for tables in all_tables if len(tables) == 15):
+
             for table in all_tables:
                 rows = table.find_all('tr')
                 for row in (rowa for rowa in rows if len(rowa) >= 14):
@@ -42,36 +41,78 @@ def sigma(dynamic_url):
                 table_id+=1
             
             for rowthing in table_rows:
+                charged_ver_row = rowthing
+                semicharged_ver_row = rowthing
                 if rowthing != []:    
                     if rowthing[0] == "":
                         print(rowthing)
                         hits = []
                         try:
-                            remove_commas = rowthing[2].split(",")
-                            for number_but_str in remove_commas:
+                            remove_noise = rowthing[2].split(",")
+                            for number_but_str in remove_noise:
                                 if "[" in number_but_str:
-                                    number_but_str = number_but_str.split("[")
+                                    charged_number = number_but_str.split("[")
+                                    for x in charged_number:
+                                        if "]" in x:
+                                            x.removesuffix("]")
+                                            charged_ver_row[2] = x
+                                        else: 
+                                            rowthing[2] = rowthing[2]+ x
+
+
+                                if "{" in number_but_str:
+                                    semi_charged_number = number_but_str.split("{")
+                                    for x in semi_charged_number:
+                                        if "}" in x:
+                                            x.removesuffix("}")
+                                            semicharged_ver_row[2] = x
+                                        else: 
+                                            rowthing[2] = rowthing[2] + x
+                                        
+
                                 if "x" in number_but_str:
                                     check_for_x = number_but_str_2.split("x")
                                     for i in len(int(check_for_x[1])):
                                         hits.append(int(check_for_x[0]))
                                 else:
                                     number_but_int = int(number_but_str)
-                                    hits.append(number_but_int) #gjør at de blir lagt til i en dict 
+                                    hits.append(number_but_int)
 
                         except:
                             try:
                                 remove_commas = rowthing[3].split(",")
                                 for number_but_str_2 in remove_commas:
-                                    if "x" in number_but_str_2:
+                                    if "[" in number_but_str_2:
+                                        charged_number = number_but_str.split("[")
+                                        for x in charged_number:
+                                            if "]" in x:
+                                                x.removesuffix("]")
+                                                charged_ver_row[3] = x
+                                            else: 
+                                                rowthing[3] = rowthing[3] + x
+                                        number_but_str_2[3] = number_but_str_2[3]
+                                                
+
+                                    if "{" in number_but_str_2:
+                                        semi_charged_number = number_but_str.split("{")
+                                        for x in semi_charged_number:
+                                            if "}" in x:
+                                                x.removesuffix("}")
+                                                semicharged_ver_row[3] = x
+                                            else: 
+                                                rowthing[3] = rowthing[3] + x
+
+                                    print(number_but_str_2)
+                                    if "×" in number_but_str_2:
+                                        print("bakaraka")
                                         check_for_x = number_but_str_2.split("x")
                                         for i in len(int(check_for_x[1])):
                                             hits.append(int(check_for_x[0]))
                                     else:
                                         number_but_int = int(number_but_str_2)
                                         hits.append(number_but_int)
-                            except:
-                                print("neither the 2nd index nor the third index are attacks. this is so not sigma")
+                            except Exception as a:
+                                print("neither the 2nd index nor the third index are attacks. this is so not sigma", a)
                         finally:
                             print(hits)
 
