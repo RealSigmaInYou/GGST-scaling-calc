@@ -1,4 +1,4 @@
-<html class="client-js skin-citizen-dark skin-theme-clientpref-night citizen-feature-autohide-navigation-clientpref-1 citizen-feature-pure-black-clientpref-0 citizen-feature-custom-font-size-clientpref-standard citizen-feature-custom-width-clientpref-standard" dir="ltr" lang="en">
+<html class="client-js skin-citizen-auto skin-theme-clientpref-os citizen-feature-autohide-navigation-clientpref-1 citizen-feature-pure-black-clientpref-0 citizen-feature-custom-font-size-clientpref-standard citizen-feature-custom-width-clientpref-standard citizen-animations-ready" dir="ltr" lang="en">
  <head>
   <meta charset="utf-8"/>
   <title>
@@ -9,9 +9,9 @@
   <script async="" src="//cdn.confiant-integrations.net/gptprebidnative/202410301053/wrap.js">
   </script>
   <script>
-   document.documentElement.className="client-js skin-citizen-dark skin-theme-clientpref-night citizen-feature-autohide-navigation-clientpref-1 citizen-feature-pure-black-clientpref-0 citizen-feature-custom-font-size-clientpref-standard citizen-feature-custom-width-clientpref-standard";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Z1BZ4aUeJm67VyLK7QwNvgAAAQU","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GGST/Anji_Mito/Frame_Data","wgTitle":"GGST/Anji Mito/Frame Data","wgCurRevisionId":403129,"wgRevisionId":403129,"wgArticleId":25421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en",
-"wgPageContentModel":"wikitext","wgRelevantPageName":"GGST/Anji_Mito/Frame_Data","wgRelevantArticleId":25421,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCargoDefaultQueryLimit":100,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/wiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,
-"wgAmericanDates":false,"simpleBatchUploadMaxFilesPerBatch":{"*":1000}};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","jquery.tablesorter.styles":"ready","skins.citizen.styles":"ready","skins.citizen.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.embedVideo.styles":"ready"};RLPAGEMODULES=["ext.cargo.main","jquery.tablesorter","ext.cargo.datatables","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.citizen.scripts","ext.embedVideo.overlay","ext.cargo.purge"];
+   document.documentElement.className="client-js skin-citizen-auto skin-theme-clientpref-os citizen-feature-autohide-navigation-clientpref-1 citizen-feature-pure-black-clientpref-0 citizen-feature-custom-font-size-clientpref-standard citizen-feature-custom-width-clientpref-standard";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Z2ghdqh-BoFpihnw6JaGJwAAAY4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GGST/Anji_Mito/Frame_Data","wgTitle":"GGST/Anji Mito/Frame Data","wgCurRevisionId":403129,"wgRevisionId":403129,"wgArticleId":25421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel"
+:"wikitext","wgRelevantPageName":"GGST/Anji_Mito/Frame_Data","wgRelevantArticleId":25421,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCargoDefaultQueryLimit":100,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":false,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/wiki/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":false
+,"simpleBatchUploadMaxFilesPerBatch":{"*":1000}};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","jquery.tablesorter.styles":"ready","skins.citizen.styles":"ready","skins.citizen.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.embedVideo.styles":"ready"};RLPAGEMODULES=["ext.cargo.main","jquery.tablesorter","ext.cargo.datatables","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.citizen.scripts","ext.embedVideo.overlay","ext.cargo.purge"];
   </script>
   <script>
    (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -98,6 +98,9 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
   </script>
   <script async="" id="nitro-gpt" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="text/javascript">
   </script>
+  <style>
+   div[id^="google_ads_iframe_"] { display: inline-block; }
+  </style>
   <script async="" src="//s.nitropay.com/gpp-84c89f1.min.js" type="text/javascript">
   </script>
   <script async="" src="//c.amazon-adsystem.com/aax2/apstag.js" type="text/javascript">
@@ -111,8 +114,6 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
   <style type="text/css">
    #ncmp__modal{position:fixed;top:0;left:0;right:0;bottom:0;opacity:0;pointer-events:none;transition:opacity .25s ease-in;display:flex;justify-content:center;align-items:center}#ncmp__modal .ncmp__shadow{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.2);z-index:1}#ncmp__modal .ncmp__modal{width:1100px;height:85vh;z-index:2;background:#fff;box-shadow:0 11px 15px -7px rgba(0,0,0,.2),0 24px 38px 3px rgba(0,0,0,.14),0 9px 46px 8px rgba(0,0,0,.12);display:flex;flex-direction:column;position:relative;overflow:hidden}@media(max-width: 1150px){#ncmp__modal .ncmp__modal{width:900px}}@media(max-width: 1024px){#ncmp__modal .ncmp__modal{width:100%;height:100%;box-sizing:border-box}}#ncmp__modal .ncmp__modal.ncmp__modal-app{position:fixed;top:20px;left:20px;right:20px;bottom:20px;box-shadow:2px 2px 20px rgba(0,0,0,.45);width:auto;height:auto}#ncmp__modal .ncmp__modal .ncmp__modal-content{display:flex;flex:1 1 auto;height:0}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__modal-content{flex-direction:column-reverse}}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav-hamburger{display:none}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav-hamburger{position:absolute;top:20px;left:15px;z-index:40;display:block;cursor:pointer}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav-hamburger svg{width:24px;height:24px}}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav{flex:0 0 240px;background:#0061b1;color:#fff;overflow:auto}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav{position:absolute;top:0;left:-240px;bottom:0;width:240px;z-index:50;transition:all .15s ease-in;overflow:auto}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav.ncmp__nav-active{left:0}}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav .ncmp__nav-top{height:66px;background:#1e83d4}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul{margin:0;padding:0;list-style:none}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li{border-bottom:1px solid #1673bf}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-header{color:#fff;height:42px;line-height:42px;padding:0 20px;font-size:15px;font-weight:500;background:#00569c}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-item.ncmp__nav-item-active a{cursor:default;background:#004279 !important}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-item a{display:flex;font-size:13px;font-weight:300;text-decoration:none;color:#fff;padding:6px 20px;line-height:18px;align-items:center}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-item a:hover{background:#004279}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-item a .ncmp__purpose-status{display:block;flex:0 0 8px;width:8px;height:8px;border-radius:50%;background:#2787d6;margin-right:10px}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-item a .ncmp__purpose-status.ncmp__purpose-status-on{background:#6fff34}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__nav ul li.ncmp__nav-purpose a em{font-style:normal}#ncmp__modal .ncmp__modal .ncmp__modal-content .ncmp__router{flex:1 1 auto}#ncmp__modal .ncmp__modal h2{display:flex;align-items:center;position:-webkit-sticky;position:sticky;top:0;margin:0;padding:0 120px 0 30px;background:#fff;color:#000;font-weight:500;font-size:20px;z-index:10;height:66px;line-height:22px;text-transform:none}@media(max-width: 1023px){#ncmp__modal .ncmp__modal h2{font-size:16px;padding:0 15px 0 50px}}#ncmp__modal .ncmp__modal .ncmp__back{border:none;background:#fff;border-radius:50%;cursor:pointer;width:26px;height:26px;align-items:center;justify-content:center;display:flex;vertical-align:middle;font-size:0 !important;margin-right:10px;transition:all .1s ease-in}#ncmp__modal .ncmp__modal .ncmp__back svg{width:16px;height:16px;fill:#0061b1;transition:all .1s ease-in}#ncmp__modal .ncmp__modal .ncmp__back:hover{background:#0061b1}#ncmp__modal .ncmp__modal .ncmp__back:hover svg{fill:#fff}#ncmp__modal .ncmp__modal .ncmp__vendor-info{position:absolute;top:0;bottom:66px;right:-40%;z-index:30;background:#ececec;box-sizing:border-box;width:40%;transition:all .15s ease-in;overflow:auto}#ncmp__modal .ncmp__modal .ncmp__vendor-info.ncmp__vendor-active{right:0}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__vendor-info{width:100%;right:-100%}#ncmp__modal .ncmp__modal .ncmp__vendor-info.ncmp__vendor-active{right:0}}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body{padding:30px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body{padding:15px}}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body h3{margin:0 0 10px 0;font-size:16px;font-weight:500;line-height:22px}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section{margin-bottom:30px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section{margin-bottom:15px}}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section a{word-break:break-all}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section table{width:100%;border-collapse:collapse;box-sizing:border-box}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section table tr td{border-bottom:1px solid #ccc;padding:10px;background:#f8f8f8;font-size:13px;color:#444}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section table tr td strong{display:block;font-weight:500;font-size:14px}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section table tr td em{display:block;font-weight:500;font-size:13px;font-style:normal;margin:5px 0}#ncmp__modal .ncmp__modal .ncmp__vendor-info .ncmp__vendor-body .ncmp__vendor-section table tr:last-child td{border:none}#ncmp__modal .ncmp__modal .ncmp__nav-shadow{position:absolute;top:0;left:0;bottom:0;right:0;z-index:45;pointer-events:none;background:rgba(0,0,0,0);transition:all .15s ease-in}#ncmp__modal .ncmp__modal .ncmp__nav-shadow.ncmp__nav-shadow-active{pointer-events:all;background:rgba(0,0,0,.2)}#ncmp__modal .ncmp__modal .ncmp__vendor-shadow{position:absolute;top:0;left:0;bottom:66px;right:0;z-index:25;pointer-events:none;background:rgba(0,0,0,0);transition:all .15s ease-in}#ncmp__modal .ncmp__modal .ncmp__vendor-shadow.ncmp__vendor-active{pointer-events:all;background:rgba(0,0,0,.2)}#ncmp__modal .ncmp__modal .ncmp__router{flex:1 1 auto;overflow:auto;position:relative}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__col-toggle{width:74px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__col-name{text-align:left}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__col-type{width:20%}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__icon-yes{display:inline-block}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__icon-yes svg{fill:#dc4100}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__icon-no{display:inline-block}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__icon-no svg{fill:#d0d0d0}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__cookie-expire{display:inline-block;margin-left:10px;line-height:16px}@media(max-width: 767px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__cookie-expire{display:none}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__cookie-expire strong{display:block;font-weight:600;font-size:11px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features{text-align:right;margin-top:10px;margin-bottom:-10px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features{text-align:left;margin-top:15px;margin-bottom:10px}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a{text-decoration:underline;color:#222}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a:hover,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a:hover,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a:hover{color:#222}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a.ncmp__toggle-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a.ncmp__toggle-vendors-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a.ncmp__toggle-legint-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-purposes a.ncmp__toggle-legint-vendors-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a.ncmp__toggle-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a.ncmp__toggle-vendors-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a.ncmp__toggle-legint-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table a.ncmp__toggle-legint-vendors-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a.ncmp__toggle-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a.ncmp__toggle-vendors-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a.ncmp__toggle-legint-purposes-off,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-features a.ncmp__toggle-legint-vendors-off{color:#555;font-weight:400}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__reject-table{text-align:left;margin-bottom:10px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__information .ncmp__information-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__information .ncmp__object-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__object .ncmp__information-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__object .ncmp__object-body{padding:30px;background:#efefef;position:relative}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__information .ncmp__information-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__information .ncmp__object-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__object .ncmp__information-body,#ncmp__modal .ncmp__modal .ncmp__router .ncmp__object .ncmp__object-body{padding:15px}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__illustrations{padding:15px;background:#ffebbd;border-left:8px solid #efc667;margin-bottom:30px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__illustrations ul{margin:0 0 0 20px;padding:0;list-style-type:square}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__illustrations ul li{margin-bottom:30px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__illustrations ul li:last-child{margin:0}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__description-legal{margin-bottom:30px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__description-legal{margin-bottom:15px}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__description-legal strong{margin-bottom:5px;display:block;font-weight:500}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__description-legal h3{margin:0 0 5px 0;font-size:14px;font-weight:500;line-height:22px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__description-legal p{margin:0;white-space:pre-wrap;font-size:14px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__section-body{padding:30px;background:#efefef;position:relative}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section .ncmp__section-body{padding:15px}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section table{width:100%;border-collapse:collapse;box-sizing:border-box}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section table tr td{border-bottom:1px solid #ccc;padding:5px 10px;font-size:13px;color:#444}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section table tr td p{margin:0;font-size:13px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section table tr th{position:-webkit-sticky;position:sticky;top:66px;z-index:9;padding:5px;font-weight:400;font-size:13px;background:#2d2d2d;color:#fff;border:none}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__section table tr:nth-child(even) td{background:#e4e4e4}#ncmp__modal .ncmp__modal .ncmp__router section{margin-bottom:30px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router section{margin-bottom:15px}}#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-title{margin-bottom:15px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-title{margin-bottom:5px}}#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-title h3{font-weight:500;font-size:15px;margin:0;line-height:22px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-title h3{font-size:16px}}#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-details p{margin-top:0;font-size:14px}#ncmp__modal .ncmp__modal .ncmp__router section .ncmp__section-details p:last-child{margin:0}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list{display:grid;grid-template-columns:1fr;grid-gap:20px;flex-wrap:wrap}@media(max-width: 1024px){#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list{grid-template-columns:1fr}}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item{flex:1 0 30%;background:#fbfbfb;padding:15px;display:flex;flex-direction:column}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__toggle{flex:0 0 72px;float:right;margin-left:15px;margin-bottom:15px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-info{flex:1 1 auto}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-info strong{display:block;font-weight:500;font-size:15px;margin-bottom:5px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-info p{margin:0;color:#444;font-weight:400;font-size:13px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-info .ncmp__vendor-consent{margin-bottom:5px;font-weight:500}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-action{flex:0 0 auto;font-size:13px;padding-top:5px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-action a{color:#595959;border-bottom:1px solid #ccc;font-weight:400}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__list .ncmp__list-item .ncmp__list-action a:hover{color:#222}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle{width:56px;height:24px;position:relative;display:inline-block;vertical-align:middle}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle label{width:56px;height:24px;display:block;border-radius:34px;background-color:#cecece;transition:background-color .4s;cursor:pointer}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle label:before{content:"";display:block;background-color:#fff;bottom:3px;height:18px;left:3px;position:absolute;transition:.4s;width:18px;z-index:5;border-radius:100%}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle label span{position:absolute;top:0;left:0;right:0;bottom:0;display:block;line-height:24px;text-transform:uppercase;font-size:12px;font-weight:bold;color:#484848;padding-left:26px;transition:all .4s}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle label span.ncmp__toggle-on{opacity:0}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input{position:absolute;opacity:0}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input:checked+label{background-color:#0061b1}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input:checked+label:before{-webkit-transform:translateX(32px);transform:translateX(32px)}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input:checked+label span{color:#fff;padding-left:8px}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input:checked+label span.ncmp__toggle-on{opacity:1}#ncmp__modal .ncmp__modal .ncmp__router .ncmp__toggle input:checked+label span.ncmp__toggle-off{opacity:0}#ncmp__modal .ncmp__modal .ncmp__modal-actions{flex:0 0 auto;padding:0 15px;height:66px;display:flex;align-items:center}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding{flex:1 1 auto;display:flex;align-items:center;color:#8e8e8e}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-logo{flex:0 0 auto;margin-right:10px;display:flex;align-items:center}@media(max-width: 320px){#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-logo{display:none}}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-logo a{display:flex;align-items:center}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-logo a img{width:26px;height:20px}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-version{flex:1 1 auto;font-size:11px;line-height:14px}@media(max-width: 1023px){#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-version{display:none}}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-version span{display:block}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-version span a{border-bottom:1px solid #dedede;color:#777}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__branding .ncmp__branding-version span a:hover{color:#666}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__buttons{flex:0 0 auto}#ncmp__modal .ncmp__modal .ncmp__modal-actions .ncmp__buttons button{margin-left:5px}
   </style>
-  <script async="async" src="https://config.aps.amazon-adsystem.com/configs/da657530-03e5-4306-95bc-d4eb370426c9" type="text/javascript">
-  </script>
   <meta content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
   <meta content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ==" http-equiv="origin-trial"/>
   <meta content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
@@ -120,6 +121,8 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
   <script async="" src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202412090101/pubads_impl.js">
   </script>
   <link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202412050101/gpt" rel="compression-dictionary"/>
+  <script async="async" src="https://config.aps.amazon-adsystem.com/configs/da657530-03e5-4306-95bc-d4eb370426c9" type="text/javascript">
+  </script>
   <script src="//secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js">
   </script>
   <script src="https://tags.crwdcntrl.net/lt/c/16576/sync.min.js">
@@ -270,7 +273,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
          <span class="citizen-ui-icon mw-ui-icon-image mw-ui-icon-wikimedia-image">
          </span>
          <span>
-          40.4K
+          40.5K
          </span>
         </div>
         <div class="citizen-siteStats__item" id="citizen-siteStats__item--users" title="users">
@@ -284,7 +287,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
          <span class="citizen-ui-icon mw-ui-icon-edit mw-ui-icon-wikimedia-edit">
          </span>
          <span>
-          470.6K
+          471.8K
          </span>
         </div>
        </div>
@@ -308,7 +311,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
             Main page
            </span>
            <span class="citizen-keyboard-hint-key">
-            alt shift z
+            alt ⇧ z
            </span>
           </a>
          </li>
@@ -573,7 +576,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
             Recent changes
            </span>
            <span class="citizen-keyboard-hint-key">
-            alt shift r
+            alt ⇧ r
            </span>
           </a>
          </li>
@@ -585,7 +588,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
             Random page
            </span>
            <span class="citizen-keyboard-hint-key">
-            alt shift x
+            alt ⇧ x
            </span>
           </a>
          </li>
@@ -606,7 +609,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
             Special pages
            </span>
            <span class="citizen-keyboard-hint-key">
-            alt shift q
+            alt ⇧ q
            </span>
           </a>
          </li>
@@ -618,7 +621,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
             Upload file
            </span>
            <span class="citizen-keyboard-hint-key">
-            alt shift u
+            alt ⇧ u
            </span>
           </a>
          </li>
@@ -711,7 +714,7 @@ span.cargoFieldName{color:#777}table.cargoTable{border-collapse:collapse} table.
              Log in
             </span>
             <span class="citizen-keyboard-hint-key">
-             alt shift o
+             alt ⇧ o
             </span>
            </a>
           </li>
@@ -862,7 +865,7 @@ You can view its source [alt-shift-e]">
                What links here
               </span>
               <span class="citizen-keyboard-hint-key">
-               alt shift j
+               alt ⇧ j
               </span>
              </a>
             </li>
@@ -874,7 +877,7 @@ You can view its source [alt-shift-e]">
                Related changes
               </span>
               <span class="citizen-keyboard-hint-key">
-               alt shift k
+               alt ⇧ k
               </span>
              </a>
             </li>
@@ -886,7 +889,7 @@ You can view its source [alt-shift-e]">
                Printable version
               </span>
               <span class="citizen-keyboard-hint-key">
-               alt shift p
+               alt ⇧ p
               </span>
              </a>
             </li>
@@ -2758,7 +2761,7 @@ You can view its source [alt-shift-e]">
               j.D
              </td>
              <td>
-              52
+              42
              </td>
              <td>
               High
@@ -3518,7 +3521,7 @@ You can view its source [alt-shift-e]">
               Kou
              </td>
              <td>
-              25,30
+              20,30
              </td>
              <td>
               All
@@ -4162,7 +4165,7 @@ You can view its source [alt-shift-e]">
               3(6)3(6)3(6)3(6)3(6)3
              </td>
              <td>
-              Total 58
+              Total 122
              </td>
              <td>
               -30
@@ -6773,36 +6776,36 @@ You can view its source [alt-shift-e]">
          </style>
          <!-- 
 NewPP limit report
-Cached time: 20241204133217
+Cached time: 20241222142558
 Cache expiry: 86400
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.316 seconds
-Real time usage: 0.351 seconds
+CPU time usage: 0.303 seconds
+Real time usage: 0.329 seconds
 Preprocessor visited node count: 2232/1000000
 Post‐expand include size: 62127/2097152 bytes
 Template argument size: 9742/2097152 bytes
 Highest expansion depth: 9/100
 Expensive parser function count: 1/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 170050/5000000 bytes
-Lua time usage: 0.029/7.000 seconds
+Unstrip post‐expand size: 170051/5000000 bytes
+Lua time usage: 0.024/7.000 seconds
 Lua memory usage: 855830/52428800 bytes
 -->
          <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  263.582      1 -total
- 45.25%  119.270      4 Template:GGST-FullFrameDataTable
- 20.66%   54.447      1 Template:GGST/CharacterLinks
- 17.84%   47.019     18 Template:MiniMoveCard
- 12.18%   32.110      1 Template:GGST/Navigation
-  3.20%    8.424      1 Template:Navigation/SEO
-  2.10%    5.523      1 Template:Card
-  1.85%    4.881      1 Template:GGST-CharacterSystemDataTable
-  1.15%    3.042      1 Template:FullFrameDataGlossary-GGST
-  0.92%    2.427     29 Template:Homegrid_Nav_Icon
+100.00%  243.242      1 -total
+ 47.61%  115.810      4 Template:GGST-FullFrameDataTable
+ 20.79%   50.578      1 Template:GGST/CharacterLinks
+ 15.22%   37.010     18 Template:MiniMoveCard
+ 11.89%   28.925      1 Template:GGST/Navigation
+  3.24%    7.888      1 Template:Navigation/SEO
+  2.16%    5.264      1 Template:GGST-CharacterSystemDataTable
+  2.01%    4.879      1 Template:Card
+  1.27%    3.082      1 Template:FullFrameDataGlossary-GGST
+  0.91%    2.211     29 Template:Homegrid_Nav_Icon
 -->
-         <!-- Saved in parser cache with key dustlo5_mediawiki:pcache:idhash:25421-0!canonical and timestamp 20241204133217 and revision id 403129. Rendering was triggered because: page-view
+         <!-- Saved in parser cache with key dustlo5_mediawiki:pcache:idhash:25421-0!canonical and timestamp 20241222142558 and revision id 403129. Rendering was triggered because: page-view
  -->
         </section>
        </div>
@@ -7021,7 +7024,7 @@ Transclusion expansion time report (%,ms,calls,template)
          ⧼citizen-page-info-viewcount⧽
         </div>
         <div class="page-info__text">
-         This page has been accessed 1,912 times.
+         This page has been accessed 2,440 times.
         </div>
        </section>
       </div>
@@ -7108,26 +7111,139 @@ Transclusion expansion time report (%,ms,calls,template)
    </footer>
   </div>
   <script>
-   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":472,"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.351","ppvisitednodes":{"value":2232,"limit":1000000},"postexpandincludesize":{"value":62127,"limit":2097152},"templateargumentsize":{"value":9742,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":170050,"limit":5000000},"timingprofile":["100.00%  263.582      1 -total"," 45.25%  119.270      4 Template:GGST-FullFrameDataTable"," 20.66%   54.447      1 Template:GGST/CharacterLinks"," 17.84%   47.019     18 Template:MiniMoveCard"," 12.18%   32.110      1 Template:GGST/Navigation","  3.20%    8.424      1 Template:Navigation/SEO","  2.10%    5.523      1 Template:Card","  1.85%    4.881      1 Template:GGST-CharacterSystemDataTable","  1.15%    3.042      1 Template:FullFrameDataGlossary-GGST","  0.92%    2.427     29 Template:Homegrid_Nav_Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"7.000"},"limitreport-memusage":{"value":855830,"limit":52428800}},"cachereport":{"timestamp":"20241204133217","ttl":86400,"transientcontent":false}}});});
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":438,"wgPageParseReport":{"limitreport":{"cputime":"0.303","walltime":"0.329","ppvisitednodes":{"value":2232,"limit":1000000},"postexpandincludesize":{"value":62127,"limit":2097152},"templateargumentsize":{"value":9742,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":170051,"limit":5000000},"timingprofile":["100.00%  243.242      1 -total"," 47.61%  115.810      4 Template:GGST-FullFrameDataTable"," 20.79%   50.578      1 Template:GGST/CharacterLinks"," 15.22%   37.010     18 Template:MiniMoveCard"," 11.89%   28.925      1 Template:GGST/Navigation","  3.24%    7.888      1 Template:Navigation/SEO","  2.16%    5.264      1 Template:GGST-CharacterSystemDataTable","  2.01%    4.879      1 Template:Card","  1.27%    3.082      1 Template:FullFrameDataGlossary-GGST","  0.91%    2.211     29 Template:Homegrid_Nav_Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"7.000"},"limitreport-memusage":{"value":855830,"limit":52428800}},"cachereport":{"timestamp":"20241222142558","ttl":86400,"transientcontent":false}}});});
   </script>
   <iframe name="__tcfapiLocator" style="display: none;">
   </iframe>
-  <iframe frameborder="0" height="0" id="1aa73632caa6af" marginheight="0" marginwidth="0" name="__pb_locator__" scrolling="no" src="about:blank" style="display: none; height: 0px; width: 0px; border: 0px;" width="0">
+  <iframe frameborder="0" height="0" id="13f099b3cec6c3" marginheight="0" marginwidth="0" name="__pb_locator__" scrolling="no" src="about:blank" style="display: none; height: 0px; width: 0px; border: 0px;" width="0">
   </iframe>
   <iframe name="__uspapiLocator" style="display: none;">
   </iframe>
-  <img src="https://ad-delivery.net/px.gif?ch=2" style="display: none !important; width: 1px !important; height: 1px !important;"/>
-  <img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"/>
-  <img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.870802035035221" style="display: none !important; width: 1px !important; height: 1px !important;"/>
   <div id="mw-teleport-target">
   </div>
+  <div class="ncmp__normalise" id="ncmp__tool">
+   <div class="ncmp__banner ncmp__banner-web ncmp__active">
+    <div class="ncmp__banner-inner">
+     <div class="ncmp__language">
+      <a class="ncmp__language-picker" href="javascript:;" target="_self">
+       <img alt="Language Picker" height="18" src="https://s.nitropay.com/cmp/lang.png" width="16"/>
+       <span>
+        English
+       </span>
+      </a>
+      <div class="ncmp__language-list">
+       <a class="ncmp__language-close" href="javascript:;" target="_self">
+        <img alt="Close Language Picker" height="18" src="https://s.nitropay.com/cmp/cancel.png" width="18"/>
+       </a>
+       <ul>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('de')" target="_self">
+          Deutsch
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('en')" target="_self">
+          English
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('es')" target="_self">
+          Español
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('fr')" target="_self">
+          Français
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('it')" target="_self">
+          Italiano
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('nl')" target="_self">
+          Nederlands
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('pl')" target="_self">
+          Polski
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('pt')" target="_self">
+          Português
+         </a>
+        </li>
+        <li>
+         <a href="javascript:;" onclick="__npcmp('language').set('ro')" target="_self">
+          Limba română
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="ncmp__banner-info">
+      <div class="ncmp__banner-sections">
+       <div class="ncmp__banner-section-1">
+        <h2>
+         You control your privacy
+        </h2>
+        <p>
+         We and up to
+         <a href="javascript:;" onclick="__npcmp('showModal').navigate('vendors')" target="_self">
+          930 vendors
+         </a>
+         process, store and/or access personal data from you and your device. This data can include your type of browser, settings, cookies, unique identifiers, IP address, and geo location. Your consent can be updated or withdrawn at any time by clicking the link in our privacy policy or footer.
+        </p>
+       </div>
+       <div class="ncmp__banner-section-2">
+        <p class="ncmp__banner-emphasis">
+         We're requesting consent to offer:
+         <strong>
+          Personalised advertising and content, advertising and content measurement, audience research and services development
+         </strong>
+        </p>
+        <p>
+         Advertising and content can be personalised based on your profile. Your activity on this service can be used to build or improve a profile about you for personalised advertising and content. Advertising and content performance can be measured. Reports can be generated based on your activity and those of others. Your activity on this service can help develop and improve products and services.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="ncmp__banner-actions">
+      <div class="ncmp__banner-btns">
+       <button class="ncmp__btn ncmp__btn-border" onclick="__npcmp('showModal')">
+        Advanced Settings
+       </button>
+       <button class="ncmp__btn" onclick="__npcmp('save')">
+        Accept
+       </button>
+      </div>
+      <div class="ncmp__banner-consent">
+       <div class="ncmp__banner-branding-btn">
+        <a href="https://nitropay.com" rel="noopener" target="_blank">
+         <img alt="NitroPay" height="14" src="https://s.nitropay.com/cmp/logo.png" width="18"/>
+        </a>
+       </div>
+       <p>
+        Your consents are specific to this site &amp; device.
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <img src="https://ad-delivery.net/px.gif?ch=2" style="display: none !important; width: 1px !important; height: 1px !important;"/>
+  <img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"/>
+  <img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.7966435691970888" style="display: none !important; width: 1px !important; height: 1px !important;"/>
+  <script type="speculationrules">
+   {"prerender":[{"where":{"and":[{"href_matches":"/w/*"},{"href_matches":"/w/Special"},{"not":{"href_matches":"/.*.php"}},{"not":{"href_matches":"/*\\?*(^|&)*=*"}},{"not":{"selector_matches":"[rel~=nofollow]"}}]},"eagerness":"moderate"}]}
+  </script>
   <iframe name="cnftComm" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;">
   </iframe>
   <div id="confiant_tag_holder" style="display:none">
   </div>
-  <script type="speculationrules">
-   {"prerender":[{"where":{"and":[{"href_matches":"/w/*"},{"href_matches":"/w/Special"},{"not":{"href_matches":"/.*.php"}},{"not":{"href_matches":"/*\\?*(^|&)*=*"}},{"not":{"selector_matches":"[rel~=nofollow]"}}]},"eagerness":"moderate"}]}
-  </script>
  </body>
- <!-- Cached 20241204133217 -->
+ <!-- Cached 20241222142558 -->
 </html>

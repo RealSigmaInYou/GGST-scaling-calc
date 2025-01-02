@@ -105,7 +105,7 @@ def sigma(dynamic_url):
                                     print(number_but_str_2)
                                     if "×" in number_but_str_2:
                                         print("bakaraka")
-                                        check_for_x = number_but_str_2.split("x")
+                                        check_for_x = number_but_str_2.split("×")
                                         for i in len(int(check_for_x[1])):
                                             hits.append(int(check_for_x[0]))
                                     else:
